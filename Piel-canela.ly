@@ -27,8 +27,14 @@ rhythmGuitar = \relative c {
   \key bes \major
   \partial 2
   r2 |
-  c8 <c' ees g> <c ees g> <c ees g> f,, <f' a c> <f a c> <f a c> |
-  bes, <f' bes d> <f bes d> <f bes d> bes, <f' bes d> <f bes d> <f bes d> |
+  c8 <c' ees g> <c ees g> <c ees g> f,, <a' c f> <a c f> <a c f> |
+  bes, <bes' d f> <bes d f> <bes d f> bes, <bes' d f> <bes d f> <bes d f> |
+  c,8 <c' ees g> <c ees g> <c ees g> f,, <a' c f> <a c f> <a c f> |
+  bes, <bes' d f> <bes d f> <bes d f> <bes d f> <bes d f> <bes d f> <bes d f> |
+  g, <g' b f'> <g b f'> <g b f'> g, <g' b f'> <g b f'> <g b f'> |
+  c,8 <c' ees g> <c ees g> <c ees g> <ees, a des ges>4 r |
+  c8 <c' ees g> <c ees g> <c ees g> f,, <a' c f> <a c f> <a c f> |
+  bes, <bes' d f> <bes d f> <bes d f> <bes, bes' d f>4 r |
 }
 
 \score {
